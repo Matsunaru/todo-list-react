@@ -82,7 +82,7 @@ function ToDoList() {
     setTheme(newTheme);
 
     // Change colors of the page based on the theme
-    document.body.style.backgroundColor = newTheme ? "#333333" : "#ffffff";
+    document.body.style.backgroundColor = newTheme ? "#353535" : "#ffffff";
     document.body.style.color = newTheme ? "#ffffff" : "#000000";
   }
 

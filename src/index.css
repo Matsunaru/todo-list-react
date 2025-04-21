@@ -45,9 +45,9 @@ button
 }
 body
 {
-  background-color: rgb(53, 53, 53);
+  background-color: #353535;
   transition: background-color 0.5s ease, color 0.5s ease;
-  color: white;
+  color: #ffffff;
 }
 input[type="text"]
 {
